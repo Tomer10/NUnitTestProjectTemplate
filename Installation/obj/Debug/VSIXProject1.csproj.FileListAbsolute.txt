@@ -1,6 +1,0 @@
-C:\Users\Tomer\Documents\Visual Studio 2015\Projects\NUnit Test Project Template\VSIXProject1\bin\Debug\NUnitTemplate.vsix
-C:\Users\Tomer\Documents\Visual Studio 2015\Projects\NUnit Test Project Template\VSIXProject1\bin\Debug\extension.vsixmanifest
-C:\Users\Tomer\Documents\Visual Studio 2015\Projects\NUnit Test Project Template\VSIXProject1\obj\Debug\NUnitTemplate.dll
-C:\Users\Tomer\Documents\Visual Studio 2015\Projects\NUnit Test Project Template\VSIXProject1\obj\Debug\NUnitTemplate.pdb
-C:\Users\Tomer\Documents\Visual Studio 2015\Projects\NUnit Test Project Template\VSIXProject1\obj\Debug\extension.vsixmanifest
-C:\Users\Tomer\Documents\Visual Studio 2015\Projects\NUnit Test Project Template\VSIXProject1\obj\Debug\VSIXProject1.csprojResolveAssemblyReference.cache
