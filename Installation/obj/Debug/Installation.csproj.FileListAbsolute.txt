@@ -1,0 +1,5 @@
+C:\Users\Tomer\Documents\Visual Studio 2015\Projects\NUnit Test Project Template\Installation\bin\Debug\NUnit Template.vsix
+C:\Users\Tomer\Documents\Visual Studio 2015\Projects\NUnit Test Project Template\Installation\bin\Debug\extension.vsixmanifest
+C:\Users\Tomer\Documents\Visual Studio 2015\Projects\NUnit Test Project Template\Installation\obj\Debug\NUnit Template.dll
+C:\Users\Tomer\Documents\Visual Studio 2015\Projects\NUnit Test Project Template\Installation\obj\Debug\NUnit Template.pdb
+C:\Users\Tomer\Documents\Visual Studio 2015\Projects\NUnit Test Project Template\Installation\obj\Debug\extension.vsixmanifest

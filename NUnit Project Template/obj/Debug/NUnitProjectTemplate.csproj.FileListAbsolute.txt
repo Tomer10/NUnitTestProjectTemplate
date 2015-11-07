@@ -1,0 +1,5 @@
+C:\Users\Tomer\Documents\Visual Studio 2015\Projects\NUnit Test Project Template\NUnitProjectTemplate\bin\Debug\NUnitProjectTemplate.dll
+C:\Users\Tomer\Documents\Visual Studio 2015\Projects\NUnit Test Project Template\NUnitProjectTemplate\bin\Debug\NUnitProjectTemplate.pdb
+C:\Users\Tomer\Documents\Visual Studio 2015\Projects\NUnit Test Project Template\NUnitProjectTemplate\obj\Debug\NUnitProjectTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Tomer\Documents\Visual Studio 2015\Projects\NUnit Test Project Template\NUnitProjectTemplate\obj\Debug\NUnitProjectTemplate.dll
+C:\Users\Tomer\Documents\Visual Studio 2015\Projects\NUnit Test Project Template\NUnitProjectTemplate\obj\Debug\NUnitProjectTemplate.pdb

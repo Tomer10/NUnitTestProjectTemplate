@@ -1,0 +1,4 @@
+C:\Users\Tomer\Documents\Visual Studio 2015\Projects\NUnit Test Project Template\NUnitProjectTemplate\bin\Debug\NUnit Project Template.dll
+C:\Users\Tomer\Documents\Visual Studio 2015\Projects\NUnit Test Project Template\NUnitProjectTemplate\bin\Debug\NUnit Project Template.pdb
+C:\Users\Tomer\Documents\Visual Studio 2015\Projects\NUnit Test Project Template\NUnitProjectTemplate\obj\Debug\NUnit Project Template.dll
+C:\Users\Tomer\Documents\Visual Studio 2015\Projects\NUnit Test Project Template\NUnitProjectTemplate\obj\Debug\NUnit Project Template.pdb
